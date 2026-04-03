@@ -14,14 +14,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight&cache_seconds=1800)---
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight)
+---
 
 ## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight)
 ---
 
 ## 📉 Activity Graph
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Basnet&theme=tokyo-night)
 ---
 
 ## 🔥 Projects
