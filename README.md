@@ -25,12 +25,26 @@
 - 📊 SQL Data Warehouse (Star Schema)  
 
 ---
+
 ## 🧠 Tech Stack
+
+### Languages & Query
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+
+### Big Data & Processing
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=apacheairflow)
+![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=apache%20spark)
+
+### Data Platforms
+![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
+
+### Data Engineering Tools
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=apacheairflow)
+
+### Data Concepts
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-000?&logo=databricks)
 
 ---
 
