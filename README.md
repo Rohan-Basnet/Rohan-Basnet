@@ -3,7 +3,7 @@
 
 ---
 ![Snake animation](https://github.com/Rohan-Basnet/Rohan-Basnet/blob/output/github-contribution-grid-snake.svg)
-
+---
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
@@ -15,12 +15,10 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📉 Activity Graph
@@ -29,15 +27,14 @@
 ---
 
 ## 🔥 Projects
-- 🚀 Real-Time ETL Pipeline (Kafka + Spark)  
+- 🚀 Social Media Data Engineering Project(on progress)  
 - 📊 SQL Data Warehouse (Star Schema)  
-- ⚙️ Batch ETL with Airflow  
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (add your link here)
-- Email: (add your email here)
+- LinkedIn: (https://www.linkedin.com/in/rohan-basnet-74b95b305)
+- Email: (rohbas05@gmail.com)
 
 <!--
 **Rohan-Basnet/Rohan-Basnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
