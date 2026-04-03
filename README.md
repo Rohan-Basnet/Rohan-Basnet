@@ -2,14 +2,9 @@
 🚀 Data Engineering Enthusiast  
 
 ---
+## 🐍 Feed me commits… I’m still hungry 🐍
+
 ![Snake animation](https://github.com/Rohan-Basnet/Rohan-Basnet/blob/output/github-contribution-grid-snake.svg)
----
-## 🧠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=apacheairflow)
 
 ---
 
@@ -28,6 +23,14 @@
 ## 🔥 Projects
 - 🚀 Social Media Data Engineering Project(on progress)  
 - 📊 SQL Data Warehouse (Star Schema)  
+
+---
+## 🧠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=apacheairflow)
 
 ---
 
