@@ -2,6 +2,7 @@
 🚀 Data Engineering Enthusiast  
 
 ---
+![Snake animation](https://github.com/Rohan-Basnet/Rohan-Basnet/blob/output/github-contribution-grid-snake.svg)
 
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
