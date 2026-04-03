@@ -14,8 +14,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight)
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight&cache_seconds=1800)---
 
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight)
