@@ -21,8 +21,7 @@
 ---
 
 ## 📉 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Basnet&theme=tokyo-night)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 ## 🔥 Projects
