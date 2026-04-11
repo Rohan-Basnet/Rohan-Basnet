@@ -39,10 +39,6 @@
 ### Data Platforms
 ![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
 
-### Data Engineering Tools
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=apacheairflow)
-
 ### Data Concepts
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-000?&logo=databricks)
 
