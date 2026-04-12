@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Rohan Basnet  
-🚀 Data Engineering Enthusiast  
+## 👋 Hey,Its me ROHAN  
+🚀 A Data Enthusiast, currently exploring Data Engineering, Analytics and AI.  
 
 ---
 ## 🐍 Feed me , I’m still hungry 🐍
