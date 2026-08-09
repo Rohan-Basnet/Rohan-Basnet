@@ -1,5 +1,5 @@
 ## 👋 Hey, Its me ROHAN  
-🚀 A Data Enthusiast, currently exploring Python,Data Engineering, Analytics and AI.  
+🚀 A Data Enthusiast, currently exploring **Python, Data Engineering, Analytics and AI**.  
 
 ---
 ## 🐍 Feed me , I’m still hungry 🐍
