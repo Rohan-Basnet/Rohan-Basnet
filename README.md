@@ -1,63 +1,94 @@
-## 👋 Hey, Its me ROHAN  
-🚀 A Data Enthusiast, currently exploring **Python, Data Engineering, Analytics and AI**.  
+
+<div align="center">
+
+# 👋 Hey, I'm Rohan Basnet
+
+### 🚀 Data Enthusiast | Data Engineering | Analytics | AI
+
+Exploring the world of data, building projects, and continuously learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohan-basnet-74b95b305/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Rohan-Basnet)
+
+</div>
 
 ---
-## 🐍 Feed me , I’m still hungry 🐍
 
-![Snake animation](https://github.com/Rohan-Basnet/Rohan-Basnet/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Feed Me, I'm Still Hungry!
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/Rohan-Basnet/Rohan-Basnet/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight)
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Basnet&theme=tokyonight&hide_border=true)
+
+</div>
+
 ---
 
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight)
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Basnet&theme=tokyo-night&hide_border=true)
+
+</div>
+
 ---
 
-## 📉 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Basnet&theme=tokyo-night)
----
+## 🚀 Featured Projects
 
-## 🔥 Projects
-- 🚀 Social Media Data Engineering Project(on progress)  
-- 📊 SQL Data Warehouse (Star Schema)  
+- 🚀 **Social Media Data Engineering Project** — In Progress
+- 📊 **SQL Data Warehouse** — Medallion Architecture & Star Schema
 
 ---
 
 ## 🧠 Tech Stack
 
-### Languages & Query
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+### 🐍 Languages & Query
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 
-### Big Data & Processing
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
-![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=apache%20spark)
+### ⚡ Big Data & Processing
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-000?style=for-the-badge&logo=apachespark)
+![PySpark](https://img.shields.io/badge/PySpark-000?style=for-the-badge&logo=apachespark)
 
-### Data Platforms
-![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
+### ☁️ Data Platforms
+![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=databricks)
 
-### Data Concepts
-![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-000?&logo=databricks)
+### 📊 Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+
+### 🤖 AI & Machine Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-000?style=for-the-badge&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain)
 
 ---
 
-## 📫 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-basnet-74b95b305/)
-- Email: (rohbas05@gmail.com)
+## 📫 Connect With Me
 
-<!--
-**Rohan-Basnet/Rohan-Basnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 LinkedIn: [Rohan Basnet](https://www.linkedin.com/in/rohan-basnet-74b95b305/)
+- 📧 Email: [rohbas05@gmail.com](mailto:rohbas05@gmail.com)
+- 🐙 GitHub: [Rohan-Basnet](https://github.com/Rohan-Basnet)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### 💡 Learn. Build. Break. Fix. Repeat.
+
+</div>
