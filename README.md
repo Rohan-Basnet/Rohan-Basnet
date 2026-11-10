@@ -28,9 +28,17 @@ Exploring the world of data, building projects, and continuously learning.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Basnet&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Basnet&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](./profile/stats.svg)
+
+---
+
+## 📈 Top Languages
+
+![Top Languages](./profile/top-langs.svg)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Basnet&theme=tokyonight&hide_border=true)
 
